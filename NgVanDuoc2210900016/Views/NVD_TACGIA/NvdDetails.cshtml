@@ -1,0 +1,27 @@
+﻿@model NgVanDuoc2210900016.Models.NVD_TACGIA
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_NvdLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NVD_TACGIA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_TenTacGia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_TenTacGia)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Nvd:Edit", "NvdEdit", new { id = Model.Nvd_MaTG }) |
+    <a href="NvdIndex" class="btn btn-primary my-3">Back to List</a>
+</p>

@@ -1,0 +1,58 @@
+﻿@model NgVanDuoc2210900016.Models.NVD_SACH
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_NvdLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_TenSach)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_TenSach)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_SoTrang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_SoTrang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_NamXB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_NamXB)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_TrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_TrangThai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NVD_TACGIA.Nvd_TenTacGia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NVD_TACGIA.Nvd_TenTacGia)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Nvd:Edit", "NvdEdit", new { id = Model.Nvd_MaSach }) |
+    <a href="NvdIndex" class="btn btn-primary my-3">Back to List</a>
+</p>

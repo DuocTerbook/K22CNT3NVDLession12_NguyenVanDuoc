@@ -1,0 +1,64 @@
+﻿@model NgVanDuoc2210900016.Models.NVD_SACH
+
+@{
+    ViewBag.Title = "Danh mục xóa";
+    Layout = "~/Views/Shared/_NvdLayout.cshtml";
+}
+
+<h2>Danh mục xóa</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_TenSach)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_TenSach)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_SoTrang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_SoTrang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_NamXB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_NamXB)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_TrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_TrangThai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NVD_TACGIA.Nvd_TenTacGia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NVD_TACGIA.Nvd_TenTacGia)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input type="submit" value="NvdDelete" class="btn btn-default" /> |
+    <a href="NvdIndex" class="btn btn-primary my-3">Back to List</a>
+</div>
+    }
+</div>

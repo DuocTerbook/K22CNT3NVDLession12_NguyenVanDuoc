@@ -1,0 +1,64 @@
+﻿@model IEnumerable<NgVanDuoc2210900016.Models.NVD_SACH>
+
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+    Layout = "~/Views/Shared/_NvdLayout.cshtml";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "NvdCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nvd_MaSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nvd_TenSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nvd_SoTrang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nvd_NamXB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nvd_TrangThai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NVD_TACGIA.Nvd_TenTacGia)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nvd_MaSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nvd_TenSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nvd_SoTrang)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nvd_NamXB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nvd_TrangThai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NVD_TACGIA.Nvd_TenTacGia)
+        </td>
+        <td>
+            @Html.ActionLink("Nvd:Edit", "NvdEdit", new { id = item.Nvd_MaSach }, new { @class = "btn btn-success" }) |
+            @Html.ActionLink("Nvd:Details", "NvdDetails", new { id = item.Nvd_MaSach }, new { @class = "btn btn-info" }) |
+            @Html.ActionLink("Nvd:Delete", "NvdDelete", new { id = item.Nvd_MaSach }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

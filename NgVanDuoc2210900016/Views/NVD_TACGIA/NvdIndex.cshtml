@@ -1,0 +1,40 @@
+﻿@model IEnumerable<NgVanDuoc2210900016.Models.NVD_TACGIA>
+
+@{
+    ViewBag.Title = "Danh mục tác giả";
+    Layout = "~/Views/Shared/_NvdLayout.cshtml";
+}
+
+<h2>Danh mục tác giả</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "NvdCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nvd_MaTG)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nvd_TenTacGia)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nvd_MaTG)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nvd_TenTacGia)
+        </td>
+        <td>
+            @Html.ActionLink("Nvd:Edit", "NvdEdit", new { id = item.Nvd_MaTG }, new { @class = "btn btn-success" }) |
+            @Html.ActionLink("Nvd:Details", "NvdDetails", new { id = item.Nvd_MaTG }, new { @class = "btn btn-info" }) |
+            @Html.ActionLink("Nvd:Delete", "NvdDelete", new { id = item.Nvd_MaTG }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

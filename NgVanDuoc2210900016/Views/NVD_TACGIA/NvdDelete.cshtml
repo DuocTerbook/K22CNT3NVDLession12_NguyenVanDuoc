@@ -1,0 +1,33 @@
+﻿@model NgVanDuoc2210900016.Models.NVD_TACGIA
+
+@{
+    ViewBag.Title = "Danh mục xóa";
+    Layout = "~/Views/Shared/_NvdLayout.cshtml";
+}
+
+<h2>Danh mục xoá</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>NVD_TACGIA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nvd_TenTacGia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nvd_TenTacGia)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="NvdDelete" class="btn btn-default" /> |
+            <a href="NvdIndex" class="btn btn-primary my-3">Back to List</a>
+        </div>
+    }
+</div>

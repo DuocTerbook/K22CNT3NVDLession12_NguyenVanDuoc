@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\shared\\_nvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\shared\\_nvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvdhome\\nvdcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvdhome\\nvdcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_tacgia\\nvdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_tacgia\\nvdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_tacgia\\nvddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_tacgia\\nvddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_tacgia\\nvddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_tacgia\\nvddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_tacgia\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_tacgia\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_sach\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_sach\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_sach\\nvdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_sach\\nvdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_sach\\nvddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_sach\\nvddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_sach\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_sach\\nvdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_sach\\nvddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_sach\\nvddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\models\\nvd_sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\models\\nvd_sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\controllers\\nvd_sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\controllers\\nvd_sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\views\\nvd_tacgia\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\views\\nvd_tacgia\\nvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\controllers\\nvd_tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\controllers\\nvd_tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\models\\nvd_tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\models\\nvd_tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\controllers\\nvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\controllers\\nvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|d:\\k22cnt3_aspnet\\ngvanduoc2210900016\\ngvanduoc2210900016\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83FF459-EB79-4AE8-99ED-0FA219AFB377}|NgVanDuoc2210900016\\NgVanDuoc2210900016.csproj|solutionrelative:ngvanduoc2210900016\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NvdContact.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NvdHome\\NvdContact.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NvdHome\\NvdContact.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NvdHome\\NvdContact.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NvdHome\\NvdContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:20:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NvdIndex.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdIndex.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdIndex.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdIndex.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdIndex.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:01:02.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NvdCreate.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdCreate.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdCreate.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdCreate.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdCreate.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:44:15.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NvdDelete.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDelete.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDelete.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDelete.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDelete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:43:18.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NvdDetails.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDetails.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDetails.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDetails.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:42:09.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvdEdit.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdEdit.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdEdit.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdEdit.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdEdit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:40:52.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NvdLayout.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\Shared\\_NvdLayout.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\Shared\\_NvdLayout.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\Shared\\_NvdLayout.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\Shared\\_NvdLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:30:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NvdEdit.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdEdit.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdEdit.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdEdit.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdEdit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:04:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NvdDetails.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDetails.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDetails.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDetails.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDetails.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:05:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NvdCreate.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdCreate.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdCreate.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdCreate.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdCreate.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:03:40.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NvdDelete.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDelete.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDelete.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDelete.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_SACH\\NvdDelete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:05:43.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NVD_SACH.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Models\\NVD_SACH.cs",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Models\\NVD_SACH.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Models\\NVD_SACH.cs",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Models\\NVD_SACH.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:56:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NVD_SACHController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Controllers\\NVD_SACHController.cs",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Controllers\\NVD_SACHController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Controllers\\NVD_SACHController.cs",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Controllers\\NVD_SACHController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowHcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:56:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NVD_TACGIA.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Models\\NVD_TACGIA.cs",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Models\\NVD_TACGIA.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Models\\NVD_TACGIA.cs",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Models\\NVD_TACGIA.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:35:23.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NvdIndex.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdIndex.cshtml",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdIndex.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdIndex.cshtml",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Views\\NVD_TACGIA\\NvdIndex.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:37:18.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NVD_TACGIAController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Controllers\\NVD_TACGIAController.cs",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Controllers\\NVD_TACGIAController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Controllers\\NVD_TACGIAController.cs",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Controllers\\NVD_TACGIAController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwGsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:35:20.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Models\\Model1.edmx",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-11T05:34:15.19Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NvdHomeController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Controllers\\NvdHomeController.cs",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\Controllers\\NvdHomeController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\Controllers\\NvdHomeController.cs",
+              "RelativeToolTip": "NgVanDuoc2210900016\\Controllers\\NvdHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:30:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NgVanDuoc2210900016\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NgVanDuoc2210900016\\NgVanDuoc2210900016\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NgVanDuoc2210900016\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:30:43.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

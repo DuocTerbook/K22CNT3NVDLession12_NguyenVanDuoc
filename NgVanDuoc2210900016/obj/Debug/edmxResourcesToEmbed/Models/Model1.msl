@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NgVanDuoc_2210900016ModelStoreContainer" CdmEntityContainer="NgVanDuoc_2210900016Entities">
+    <EntitySetMapping Name="NVD_SACH">
+      <EntityTypeMapping TypeName="NgVanDuoc_2210900016Model.NVD_SACH">
+        <MappingFragment StoreEntitySet="NVD_SACH">
+          <ScalarProperty Name="Nvd_MaSach" ColumnName="Nvd_MaSach" />
+          <ScalarProperty Name="Nvd_TenSach" ColumnName="Nvd_TenSach" />
+          <ScalarProperty Name="Nvd_SoTrang" ColumnName="Nvd_SoTrang" />
+          <ScalarProperty Name="Nvd_NamXB" ColumnName="Nvd_NamXB" />
+          <ScalarProperty Name="Nvd_MaTG" ColumnName="Nvd_MaTG" />
+          <ScalarProperty Name="Nvd_TrangThai" ColumnName="Nvd_TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NVD_TACGIA">
+      <EntityTypeMapping TypeName="NgVanDuoc_2210900016Model.NVD_TACGIA">
+        <MappingFragment StoreEntitySet="NVD_TACGIA">
+          <ScalarProperty Name="Nvd_MaTG" ColumnName="Nvd_MaTG" />
+          <ScalarProperty Name="Nvd_TenTacGia" ColumnName="Nvd_TenTacGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="NgVanDuoc_2210900016Model.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
